@@ -2,13 +2,13 @@
 
 
 
-##General documentation
+## General documentation
 
 This project consists of a Convex Polygon calculator (main.cc) and a set of classes, used by the calculator. You may also find a `Makefile` to compile the whole project. Moreover, a set of test examples is provided in order to check the functionality of the class.
 
 
 
-##Installation instructions
+## Installation instructions
 
 The [pngwriter](https://github.com/pngwriter/pngwriter) library is needed to compile the project. It can be downloaded from
 
@@ -18,7 +18,7 @@ git clone https://github.com/pngwriter/pngwriter.git
 
 
 
-##Compilation instructions
+## Compilation instructions
 
 1. To compile the project it is only needed to type
 
@@ -34,7 +34,7 @@ git clone https://github.com/pngwriter/pngwriter.git
 
 
 
-##Polygon calculator
+## Polygon calculator
 
 The main commands of this calculator are explained [here](https://github.com/jordi-petit/ap2-poligons-2019). However, some extra utilitites have been implemented:
 
