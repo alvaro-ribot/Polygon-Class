@@ -1,0 +1,13 @@
+load file2.txt
+list
+area f
+area c
+vertices p
+inside d a
+inside d s
+centroid b
+intersection f e box
+print f
+union b q
+# ...
+setcol f 0.75 0.5 0.3
